@@ -1,0 +1,30 @@
+name: Visitor Counter
+
+on:
+  push:
+    paths:
+      - count.txt
+  schedule:
+    - cron: '*/10 * * * *'  # Every 10 minutes
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Read and Increase Count
+        run: |
+          count=$(cat count.txt)
+          echo $((count+1)) > count.txt
+
+      - name: Commit Updated Count
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git add count.txt
+          git commit -m "Update visitor count"
+          git push
