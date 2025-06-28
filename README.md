@@ -4,10 +4,24 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Android+Developer;Empowering+Startups+with+Purposeful+Apps;Turning+Ideas+into+Real+World+Solutions;Techlead+@Ninjafarm" alt="Typing SVG" />
 </p>
 
-
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=ojaswakesharwani&label=Profile%20views&color=0e75b6&style=flat" alt="ojaswakesharwani" />
 </p>
+
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ojaswakesharwani&theme=onedark&no-frame=true&no-bg=true&margin-w=15" />
+</p>
+
+
+### 🧱 Personal Achievement Badges
+<p align="left">
+  <img src="https://img.shields.io/badge/Hacktoberfest-2024-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Mentor-Open%20Source-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Top%20Contributor-March-green?style=flat-square" />
+</p>
+
 
 ---
 
@@ -31,14 +45,17 @@
 
 ---
 
-### 🔥 Developer Badges
+
+### 🔥 Developer Achievements
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Pull%20Shark-%F0%9F%8F%85-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Yolo-%F0%9F%9A%80-yellow?style=flat-square" />
-  <img src="https://img.shields.io/badge/Contributors-%F0%9F%8C%8D-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Pull%20Shark-Merged%20PRs-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/YOLO-Took%20Big%20Risks-yellow?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Contributor-Open%20Source-green?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/StackOverflow-Helpful%20Answers-orange?style=for-the-badge&logo=stackoverflow" />
+  <img src="https://img.shields.io/badge/Hacktoberfest-Completed%202024-ff69b4?style=for-the-badge&logo=hackthebox" />
 </p>
 
----
 
 ### 🌱 Currently Exploring
 - Fast-tracking MVPs for early-stage founders at low cost
