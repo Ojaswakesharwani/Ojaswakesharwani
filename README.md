@@ -91,6 +91,18 @@
   <a href="https://www.instagram.com/ojaswakesharwani__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
 </p>
 
+
+
+### 🟩 My Contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ojaswakesharwani/ojaswakesharwani/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ojaswakesharwani/ojaswakesharwani/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/ojaswakesharwani/ojaswakesharwani/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 ---
 
 <p align="center">
