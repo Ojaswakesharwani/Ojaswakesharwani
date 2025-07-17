@@ -77,6 +77,9 @@
 
 ---
 
+![Snake animation](https://raw.githubusercontent.com/ojaswakesharwani/ojaswakesharwani/output/github-contribution-grid-snake.svg)
+
+
 ### 🧰 Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,java,git,github,figma" />
