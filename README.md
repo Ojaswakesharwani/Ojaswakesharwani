@@ -82,7 +82,7 @@
 
 ### 🧰 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,java,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,java,git,github,figma,postman" />
 </p>
 
 ---
