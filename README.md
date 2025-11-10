@@ -94,8 +94,7 @@
   <a href="https://www.instagram.com/ojaswakesharwani__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
 </p>
 
- <img width="55%" align="right" alt="Professional Header" src="https://raw.githubusercontent.com/ojaswakesharwani/ojaswakesharwani/main/assets/download.jpeg" />
- 
+
 
 
 ---
