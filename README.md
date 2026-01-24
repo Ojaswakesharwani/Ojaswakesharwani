@@ -69,13 +69,14 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ojaswakesharwani&show_icons=true&theme=radical" alt="Ojaswa's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ojaswakesharwani&theme=radical" alt="Ojaswa's GitHub Streak" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojaswakesharwani&layout=compact&theme=tokyonight" alt="m-sohel" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ojaswakesharwani&show_icons=true&theme=tokyonight" alt="m-sohel" /></p>
+<p><img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ojaswakesharwani&count_private=true&theme=tokyonight&border_radius=10" alt="Sohel's Streak Stats"/></p>
 
 ---
+
+
+
 
 
 ### 🧰 Tech Stack
