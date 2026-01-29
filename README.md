@@ -69,9 +69,9 @@
 
 ### 📈 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojaswakesharwani&layout=compact&theme=tokyonight" alt="m-sohel" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ojaswakesharwani&show_icons=true&theme=tokyonight" alt="m-sohel" /></p>
-<p><img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ojaswakesharwani&count_private=true&theme=tokyonight&border_radius=10" alt="Sohel's Streak Stats"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojaswakesharwani&layout=compact&theme=tokyonight" alt="ojaswa" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ojaswakesharwani&show_icons=true&theme=tokyonight" alt="ojaswa" /></p>
+<p><img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ojaswakesharwani&count_private=true&theme=tokyonight&border_radius=10" alt="Ojaswa's Streak Stats"/></p>
 
 ---
 
