@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ojaswa Kesharwani</h1>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a40,100:4b0082&height=200&section=header&text=Ojaswa%20Kesharwani&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Android+Developer;Techlead+@Ninjafarm;Empowering+Startups+with+Purposeful+Apps+Online+Presence;Turning+Ideas+into+Real+World+Solutions" alt="Typing SVG" />
@@ -97,6 +100,7 @@
 
 
 ---
+
 
 <p align="center">
   🛤️ On a journey to learn, build, and empower.
