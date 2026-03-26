@@ -44,7 +44,7 @@
 - 📦 [**Toast-Library**](#): Custom toast views for polished UI feedback
 - 🗓️ [**Custom Spinner Calendar**](#): Jetpack Compose-based reusable calendar
 - 💬 [**MyChatApp**](#): Basic real-time chat app for POC testing
-- 📞 [**MyDefaultDialer**](#): Custom dialer built from scratch
+- 📞 [**FaceAuthLibProject**](#): On-device, secure facial verification using Aadhaar / PAN / Documents
 
 ---
 
